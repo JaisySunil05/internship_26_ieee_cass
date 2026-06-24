@@ -257,21 +257,11 @@ Peak-Detector/
 ├── Testbench/
 │   └── tb_peak_tracker.v
 │
-├── Cadence_Flow/
-│   ├── constraints.sdc
-│   ├── run.tcl
-│   ├── synthesis_reports/
-│   └── floorplan_files/
-│
-├── docs/
-│   ├── waveform.png
-│   ├── synthesis_results.png
-│   ├── floorplan.png
-│   ├── placement.png
-│   ├── cts.png
-│   └── routing.png
+├── Documentation/
+│   └── Team_6_IC_Internship_Project.pdf
 │
 └── README.md
+
 ```
 
 ---
