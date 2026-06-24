@@ -330,7 +330,10 @@ Cochin University of Science and Technology (CUSAT)
 Kerala, India
 
 ---
-
+Team:
+Sahala Fathima
+Aravind Krishna C A
+Aditya Narayanan
 ## License
 
 This project is intended for educational and academic purposes.
