@@ -1,0 +1,59 @@
+# Digital IC Design Internship
+
+## Overview
+
+This repository documents the work completed during my **Digital IC Design Internship**. It contains the Verilog designs, documentation, presentations, reports, and learning outcomes from each day of the internship.
+
+The internship provided hands-on exposure to digital hardware design, RTL development, simulation, synthesis, and ASIC design methodologies using industry-standard Cadence EDA tools.
+
+> **Note:** Cadence project files are not included in this repository due to confidentiality restrictions. Only the Verilog source code, reports, presentations, and other non-confidential materials are shared.
+
+## Technologies Used
+
+* Verilog HDL
+* Cadence Xcelium (Simulation)
+* Cadence Genus (Synthesis)
+* Linux Environment
+* Git & GitHub
+
+## Skills Gained
+
+During the internship, I gained practical experience in:
+
+* RTL design using Verilog HDL
+* Designing combinational and sequential digital circuits
+* Functional simulation and debugging
+* Logic synthesis and report analysis
+* Understanding the ASIC digital design flow
+* Technical documentation and version control
+
+## Repository Structure
+
+```
+Internship/
+│
+├── Introduction/
+│   ├── README.md
+│   ├── Internship Poster
+│
+├── Day_01/
+├── Day_02/
+├── Day_03/
+├── ...
+│
+├── Final_Project/
+│
+└── Presentation/
+```
+
+Each **Day_xx** folder contains the work completed on that particular day, including Verilog source code, notes, reports, presentations, and other relevant documentation.
+
+## Final Project
+
+The internship concluded with the implementation of a digital design project that integrated the concepts learned throughout the program, including RTL coding, simulation, synthesis, and design analysis.
+
+---
+
+**Author:** Jaisy Sunil
+**B.Tech in Electronics & Communication Engineering**
+**School of Engineering, CUSAT**
