@@ -1,0 +1,61 @@
+# 4. Floorplan
+
+## Overview
+
+Floorplanning is the first stage of the physical design process in ASIC implementation. It defines the physical layout of the chip by determining the core dimensions, placement of I/O pins, and allocation of space for standard cells and routing resources. A well-planned floorplan is essential for achieving good timing, low congestion, and efficient chip utilization.
+
+During this stage, the synthesized RTL design was imported into **Cadence Innovus**, and an initial floorplan was created in preparation for the subsequent physical design stages.
+
+---
+
+## Objectives
+
+- Import the synthesized netlist into Innovus.
+- Define the chip core dimensions and aspect ratio.
+- Configure I/O pin placement.
+- Allocate routing space.
+- Prepare the design for power planning and placement.
+
+---
+
+## Tools Used
+
+- Cadence Innovus
+- Standard Cell Libraries
+- LEF Technology Files
+
+---
+
+## Files Included
+
+### Scripts
+
+- `floorplan.tcl` – Floorplanning script.
+- `import.tcl` – Design import script.
+- `innovus.cmd` – Innovus command script.
+
+### Constraints
+
+- `design_incremental.sdc` – Timing constraints.
+- `io.io` – I/O pin placement information.
+- `power_pad.txt` – Power pad configuration.
+
+### Reports
+
+- Geometry Report
+- Connectivity Report
+
+---
+
+## Learning Outcomes
+
+- Learned the purpose of floorplanning in ASIC physical design.
+- Understood the impact of core utilization and aspect ratio.
+- Gained hands-on experience importing synthesized designs into Innovus.
+- Learned how floorplanning affects placement, routing, and timing.
+
+---
+
+## Note
+
+Cadence project databases, temporary files, and log files are not included in this repository. Only non-confidential scripts, reports, and documentation are shared.
